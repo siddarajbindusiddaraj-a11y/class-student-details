@@ -212,7 +212,7 @@ void student_BINDU_P_S() {
 }
 
 void student_BINDU_S() {
-    printf("BINDU S is absent\n");
+    printf("BINDU S is present\n");
 }
 
 void student_BRUNDA_G() {
